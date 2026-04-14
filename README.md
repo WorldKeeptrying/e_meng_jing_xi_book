@@ -1,1 +1,80 @@
-# e_meng_jing_xi_book
+# AGENTS.md - Novel Character and Plot Summary Project
+
+## Project Overview
+
+This is a repository for novel character and plot summaries, designed to manage:
+- Character profiles (background, personality, relationships, character arcs)
+- Plot outlines (main storylines, subplots, key events)
+- World-building (locations, rules, history)
+
+## Content Organization
+
+```
+/
+├── characters/        # Character Profiles
+├── plots/             # Plot Summaries
+├── world/             # World-Building
+└── AGENTS.md          # This File
+```
+
+## Work Guidelines
+
+### File Format
+- Use Markdown format
+- Character file naming convention: `[Character Name]-Profile.md`
+- Plot file naming: `[Chapter/Volume Name]-Plot.md`
+- Maintain consistency in Chinese content
+
+### Content Guidelines
+- Character Profiles: Backstory → Personality Traits → Relationships → Character Arc
+- Plots: Record key events in chronological order (timeline/chapter sequence)
+- Use the `[[Character Name]]` hyperlink format when referencing characters
+- Include a version number or date when updating
+
+### Cross-File Consistency
+- Maintain consistency in basic character information (name, age, timeline of major events)
+- Characters referenced in plot summaries must correspond to their character profile files
+- Major events must be updated simultaneously in the relevant character files
+
+
+
+Translated with DeepL.com (free version)
+
+
+# AGENTS.md - 小说人设与剧情总结项目
+
+## 项目概述
+
+这是一个小说的人设和剧情总结仓库，用于管理：
+- 人物设定（角色背景、性格、关系、成长弧线）
+- 剧情大纲（主线、支线、重要事件）
+- 世界观设定（地点、规则、历史）
+
+## 内容组织
+
+```
+/
+├── characters/        # 人物设定
+├── plots/             # 剧情总结
+├── world/             # 世界观设定
+└── AGENTS.md          # 本文件
+```
+
+## 工作约定
+
+### 文件格式
+- 使用 Markdown 格式
+- 人物文件命名：`[角色名]-人设.md`
+- 剧情文件命名：`[章节/卷名]-剧情.md`
+- 保持中文内容的一致性
+
+### 内容规范
+- 人设：背景故事 → 性格特征 → 人际关系 → 角色弧线
+- 剧情：时间线/章节顺序记录关键事件
+- 引用人物时使用 `[[角色名]]` 双向链接格式
+- 更新时标注版本或日期
+
+### 跨文件一致性
+- 维护角色基本信息的一致性（姓名、年龄、重要事件时间线）
+- 剧情总结中引用人物需与人物设定文件对应
+- 重大事件需在相关角色文件中同步更新
